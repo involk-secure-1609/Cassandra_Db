@@ -1,0 +1,6 @@
+In Cassandra the tables are designed according to the queries.
+so we have one table for each query
+so basically we model our tables according to our queries.
+
+
+[
